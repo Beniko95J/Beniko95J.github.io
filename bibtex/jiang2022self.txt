@@ -1,0 +1,8 @@
+@inproceedings{jiang2022self,
+  title={Self-supervised ego-motion estimation based on multi-layer fusion of rgb and inferred depth},
+  author={Jiang, Zijie and Taira, Hajime and Miyashita, Naoyuki and Okutomi, Masatoshi},
+  booktitle={2022 International Conference on Robotics and Automation (ICRA)},
+  pages={7605--7611},
+  year={2022},
+  organization={IEEE}
+}

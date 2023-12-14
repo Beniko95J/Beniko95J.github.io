@@ -1,0 +1,7 @@
+@inproceedings{jiang2023emr,
+  title={EMR-MSF Self-Supervised Recurrent Monocular Scene Flow Exploiting Ego-Motion Rigidity},
+  author={Jiang, Zijie and Okutomi, Masatoshi},
+  booktitle={Proceedings of the IEEECVF International Conference on Computer Vision},
+  pages={69--78},
+  year={2023}
+}

@@ -1,0 +1,9 @@
+@inproceedings{jiang2021vio,
+  title={VIO-Aided Structure from Motion Under Challenging Environments},
+  author={Jiang, Zijie and Taira, Hajime and Miyashita, Naoyuki and Okutomi, Masatoshi},
+  booktitle={2021 22nd IEEE International Conference on Industrial Technology (ICIT)},
+  volume={1},
+  pages={950--957},
+  year={2021},
+  organization={IEEE}
+}
