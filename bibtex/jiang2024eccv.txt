@@ -1,0 +1,8 @@
+@inproceedings{jiang2024rethinking,
+  title={Rethinking Directional Parameterization in Neural Implicit Surface Reconstruction},
+  author={Jiang, Zijie and Xu, Tianhan and Kato, Hiroharu},
+  booktitle={European Conference on Computer Vision},
+  pages={127--142},
+  year={2024},
+  organization={Springer}
+}

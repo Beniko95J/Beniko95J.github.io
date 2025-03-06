@@ -1,0 +1,8 @@
+@inproceedings{jiang2024neural,
+  title={Neural Radiance Fields for Novel View Synthesis in Monocular Gastroscopy},
+  author={Jiang, Zijie and Monno, Yusuke and Okutomi, Masatoshi and Suzuki, Sho and Miki, Kenji},
+  booktitle={2024 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)},
+  pages={1--5},
+  year={2024},
+  organization={IEEE}
+}
